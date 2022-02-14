@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrPenguim
+- 👋 Hi, I’m @ArmoredBear
 - 👀 I’m interested in GameDev activities
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on C# scripts for Unity
