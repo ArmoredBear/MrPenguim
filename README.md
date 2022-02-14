@@ -2,9 +2,5 @@
 - 👀 I’m interested in GameDev activities
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on C# scripts for Unity
-- 📫 How to reach me: Send me a message on @MrPenguinum on Twitter
+- 📫 How to reach me: Send me a mail on arthur.frutuoso@tutanota.com or on Twitter by @ArmoredBear10
 
-<!---
-MrPenguim/MrPenguim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
