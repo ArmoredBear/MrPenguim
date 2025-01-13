@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArmoredBear
+- 👋 Hi, I’m Arthur, also known as @ArmoredBear
 - 👀 I’m interested in GameDev activities
 - 🌱 I’m currently learning Godot 4 and C# and already know the basics for Unity
 - 💞️ I’m looking to collaborate on C# scripts for Godot and Unity
